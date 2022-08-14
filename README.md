@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @La-toy
-- 👀 I’m interested in learning, travelling, gradening and hiking
+- 👀 I’m interested in learning, travelling, gardening and hiking
 - 🌱 I’m currently learning Software Engineering as a beginner
 - 💞️ I’m looking to collaborate on... still thinking
 - 📫 Reach me at dametra@gmail.com
