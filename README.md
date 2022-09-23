@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @La-toy
 - 👀 I’m interested in tech, travelling, gardening and hiking
 - 🌱 I’m currently learning Software Engineering as a beginner
-- 💞️ I’m looking to collaborate on... still thinking
+- 💞️ I’m looking to collaborate on Software Engineering Projects.
 - 📫 Reach me at dametra@gmail.com
 
 <!---
